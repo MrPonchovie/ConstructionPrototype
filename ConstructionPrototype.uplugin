@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 24,
+	"VersionName": "1.0",
+	"FriendlyName": "ConstructionPrototype",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Ponchovie",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
