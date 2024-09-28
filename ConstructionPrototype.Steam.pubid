@@ -4,7 +4,7 @@
 	"Title": "ConstructionPrototype",
 	"Description": "FIX YOUR DAMN DESCRIPTION PONCHOVIE",
 	"PreviewImgFilename": "Resources/Icon128.png",
-	"Changenote": "Added construction support for all vanilla factions",
+	"Changenote": "",
 	"Tags": [
 		"Faction",
 		"Gamemode"
